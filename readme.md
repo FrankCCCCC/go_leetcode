@@ -1,6 +1,14 @@
 # Go LeetCode
 
+## Easy
+
+- [160. Intersection of Two Linked Lists: Linked-List](linked-list-easy/160.intersection-of-two-linked-lists.cpp) Done
+
 ## Medium
+
+- [17. Letter Combinations of a Phone Number](backtracking-medium/17.letter-combinations-of-a-phone-number.cpp) Done
+
+- [24. Swap Nodes in Pairs: Linked-List](linked-list-medium/24.swap-nodes-in-pairs.cpp) Done
 
 - [48. Rotate Image: Array](array-medium/48.rotate-image.cpp) Done
 
